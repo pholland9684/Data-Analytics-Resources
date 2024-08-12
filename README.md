@@ -17,3 +17,6 @@ W3Schools |
 Learning and practice help for all types of programming |
 www.w3schools.com
 
+Free |
+Freecodecamp Data Analyst Bootcamp |
+https://www.youtube.com/watch?v=PSNXoAs2FtQ

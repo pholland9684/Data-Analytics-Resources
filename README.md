@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=PSNXoAs2FtQ
 
 9 Free Data Analytics Courses for Beginners |
 https://careerfoundry.com/en/blog/data-analytics/free-data-analytics-courses/
+
+Coursera
+https://www.coursera.org/articles/data-analysis-tools

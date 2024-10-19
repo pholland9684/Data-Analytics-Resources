@@ -3,7 +3,7 @@
 _Resourses for data analytics_
   
 ## Website Courses
-*Brent ozar |
+Brent ozar |
 Free How to Think Like the SQL Server Engine Course |
 https://www.brentozar.com/training/think-like-sql-server-engine/
 

@@ -26,3 +26,5 @@ https://careerfoundry.com/en/blog/data-analytics/free-data-analytics-courses/
 
 Coursera
 https://www.coursera.org/articles/data-analysis-tools
+
+code academy 
